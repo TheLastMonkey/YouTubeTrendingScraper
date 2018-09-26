@@ -7,7 +7,7 @@ This code is a mess and is frankly embarrassing
 However, it works.  
 
 # Dependencies  
-This script uses selenium-webdriver to scrape the page. I have not included the web driver so you'll need to get that situated yourself.  I'm not even using the CSV module to export the data. the code just blindly accepts all errors and is in no way pip 8 compliant. so fair warning.  
+This script uses selenium-webdriver to scrape the page. I have not included the web driver so you'll need to get that situated yourself.  I'm not even using the CSV module to export the data. The code just blindly accepts all errors and is in no way pip 8 compliant. So fair warning.  
 
 # Disclaimer  
 This script is as is. Use at your own risk read it before you use it and I'm not responsible for how you use the script or the information it scrapes.  
